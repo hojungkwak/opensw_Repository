@@ -1,0 +1,5 @@
+name: hojungkwak
+number: 2020043023
+major: Department of Wood and Paper Science
+grade: sophomore(2)
+taking class: Introduction to Open Source SW
